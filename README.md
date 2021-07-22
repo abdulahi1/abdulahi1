@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Im Abdulahi.👋
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
