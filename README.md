@@ -1,4 +1,6 @@
-### Hi there Im Abdulahi.👋
+### <div class="html-rainbow-text" style="text-align: center;">
+	<span style="color:#ff0000">A</span><span style="color:#ff1100">b</span><span style="color:#ff2200">d</span><span style="color:#ff3300">u</span><span style="color:#ff4400">l</span><span style="color:#ff5500">a</span><span style="color:#ff6600">h</span><span style="color:#ff7700">i</span><span style="color: transparent;text-shadow: none;">&nbsp;</span><span style="color:#ff8800">M</span><span style="color:#ff9900">o</span><span style="color:#ffaa00">h</span><span style="color:#ffbb00">a</span><span style="color:#ffcc00">m</span><span style="color:#ffdd00">o</span><span style="color:#ffee00">u</span><span style="color:#ffff00">d</span>
+</div>
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
